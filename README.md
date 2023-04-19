@@ -1,16 +1,13 @@
 # addanddelete
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Table with fitness programs, on top 2 buttons - Create Program
+and Create Exercise, when clicked shows the form show/hide to create a program. Once a
+Program is saved it appears on the table as a row.
+2. Program rows: Each program row has the Edit, Delete and an
+Expand arrow.
+3. Delete Program button deletes program from a list
+4. When we click on create Exercise dropdown list with
+existing exercises will be shown.
+5. Exercise List - when exercise is added from a dropdown list it
+appears in the exercise table row with Delete button 
